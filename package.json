@@ -1,0 +1,29 @@
+{
+  "name": "manga_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OukaMiyuki/Precobaan1_Webserver_Expressjs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "Webserver"
+  ],
+  "author": "Ouka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OukaMiyuki/Precobaan1_Webserver_Expressjs/issues"
+  },
+  "homepage": "https://github.com/OukaMiyuki/Precobaan1_Webserver_Expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.1.1"
+  }
+}
