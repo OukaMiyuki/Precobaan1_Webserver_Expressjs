@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/OukaMiyuki/Precobaan1_Webserver_Expressjs#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "joi": "^17.1.1"
   }
 }
